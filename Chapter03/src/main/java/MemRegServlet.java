@@ -1,5 +1,3 @@
-package org.example.chapter03;
-
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;

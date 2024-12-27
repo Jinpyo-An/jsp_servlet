@@ -1,5 +1,3 @@
-package org.example.chapter03;
-
 import java.io.*;
 
 import jakarta.servlet.http.*;
