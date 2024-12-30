@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Chapter02" />
             <option value="$PROJECT_DIR$/Chapter03" />
+            <option value="$PROJECT_DIR$/Chapter04" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -29,6 +30,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Chapter03" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter04" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter04" />
           </set>
         </option>
       </GradleProjectSettings>
