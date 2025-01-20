@@ -1,2 +1,10 @@
 rootProject.name = 'jsp_servlet_my'
-include 'Chapter02', 'Chapter03', 'Chapter04', 'Chapter05', 'Chapter06', 'Chapter07', 'Chapter08', 'Chapter09'
+include 'Chapter02',
+        'Chapter03',
+        'Chapter04',
+        'Chapter05',
+        'Chapter06',
+        'Chapter07',
+        'Chapter08',
+        'Chapter09',
+        'Chapter10'
