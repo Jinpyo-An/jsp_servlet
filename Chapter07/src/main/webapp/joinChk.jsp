@@ -3,7 +3,6 @@
 <jsp:useBean id="join" class="test.JoinBean"/>
 <jsp:setProperty name="join" property="*"/>
 
-
 <html>
 <head>
     <title>회원가입 입력 정보 확인 페이지</title>
