@@ -16,7 +16,9 @@
     </tr>
     <tr>
         <td>내용 : </td>
-        <td><textarea name="content" cols="40" rows="20"></textarea></td>
+        <td><label>
+            <textarea name="content" cols="40" rows="20"></textarea>
+        </label></td>
     </tr>
     <tr><td align="center" colspan="2"><input type="submit" value="보내기"></td></tr>
 </table>

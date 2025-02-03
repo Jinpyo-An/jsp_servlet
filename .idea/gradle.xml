@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/Chapter09" />
             <option value="$PROJECT_DIR$/Chapter10" />
             <option value="$PROJECT_DIR$/Chapter12" />
+            <option value="$PROJECT_DIR$/Chapter14" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -112,6 +113,14 @@
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter14" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter14" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
